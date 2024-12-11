@@ -1,0 +1,6 @@
+@AI_Home_Secuirity_HostAddress = http://localhost:5216
+
+GET {{AI_Home_Secuirity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
